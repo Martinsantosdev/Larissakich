@@ -8,14 +8,11 @@
 
 ⚡ About Me
 
-const dev = {
-  name: "Valdemir Martins Santos",
-  role: "Front-End Developer",
-  mainStack: ["JavaScript", "HTML", "CSS"],
-  currentFocus: "Building real-world applications",
-  nextStep: "React + Advanced Front-End",
-  mindset: "Consistency > Motivation"
-}
+Front-End Developer focused on building scalable and real-world applications with JavaScript.
+
+Passionate about clean code, problem solving, and continuous improvement. Currently developing projects that strengthen my skills and prepare me for real industry challenges.
+
+Always learning. Always building.
 
 ---
 
